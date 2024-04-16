@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /courses/test2/screenshot-2024-04-16-at-123525-pm.png
+file: /courses/2-test2/screenshot-2024-04-16-at-123525-pm.png
 file_size: 32522
 file_type: image/png
 image_metadata:

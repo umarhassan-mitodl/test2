@@ -1,9 +1,9 @@
 {
-  "term": "",
-  "year": "",
+  "term": "Summer",
+  "year": null,
   "level": [],
   "topics": [],
-  "legacy_uid": "",
+  "legacy_uid": null,
   "instructors": {
     "content": [],
     "website": "test2"
@@ -14,11 +14,11 @@
   },
   "course_title": "test2",
   "hide_download": false,
-  "course_description": "",
+  "course_description": null,
   "department_numbers": [
     "2"
   ],
-  "extra_course_numbers": "",
+  "extra_course_numbers": null,
   "primary_course_number": "2",
   "course_image_thumbnail": {
     "content": "",

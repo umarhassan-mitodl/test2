@@ -1,9 +1,9 @@
 {
-  "term": "Summer",
-  "year": null,
+  "term": "",
+  "year": "",
   "level": [],
   "topics": [],
-  "legacy_uid": null,
+  "legacy_uid": "",
   "instructors": {
     "content": [],
     "website": "test2"
@@ -14,17 +14,17 @@
   },
   "course_title": "test2",
   "hide_download": false,
-  "course_description": null,
+  "course_description": "",
   "department_numbers": [
-    "2"
+    "1"
   ],
-  "extra_course_numbers": null,
-  "primary_course_number": "2",
+  "extra_course_numbers": "",
+  "primary_course_number": "1",
   "course_image_thumbnail": {
     "content": "",
     "website": "test2"
   },
   "learning_resource_types": [],
-  "site_uid": "db0714d2-5f98-4112-b9a6-30243df60bcc",
+  "site_uid": "e71b3ad1-906c-4cfa-9788-f1efe8a5e2f2",
   "site_short_id": "test2"
 }

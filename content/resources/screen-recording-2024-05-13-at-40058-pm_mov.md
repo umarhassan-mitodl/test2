@@ -2,18 +2,18 @@
 body: ''
 content_type: resource
 draft: false
-file: /courses/test2/screenshot-2024-04-16-at-123525-pm.png
-file_size: 32522
-file_type: image/png
+file: /gdrive_uploads/test2/1IaTMaWrH6Rl-8BKvNvjt0A9jSTvRl0xk/screen-recording-2024-05-13-at-40058-pm.mov
+file_size: 13213534
+file_type: video/quicktime
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-resourcetype: Image
-title: "Screenshot 2024-04-16 at 12.35.25\u202FPM.png"
-uid: f95fb254-9d77-43fa-9c32-bc0e9e8908fc
+resourcetype: Video
+title: "Screen Recording 2024-05-13 at 4.00.58\u202FPM.mov"
+uid: 15c83fd2-1114-4ae9-94e6-54cf92c97f2e
 video_files:
   archive_url: ''
   video_captions_file: ''

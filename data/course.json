@@ -1,0 +1,26 @@
+{
+  "term": "",
+  "year": "2002",
+  "level": [],
+  "topics": [],
+  "legacy_uid": "",
+  "instructors": {
+    "content": [],
+    "website": "test2"
+  },
+  "course_image": {
+    "content": "",
+    "website": "test2"
+  },
+  "course_title": "test2",
+  "hide_download": true,
+  "course_description": "test2",
+  "department_numbers": [
+    "2"
+  ],
+  "extra_course_numbers": "2",
+  "primary_course_number": "2",
+  "learning_resource_types": [],
+  "site_uid": "eb29a2cb-fcc1-42f8-8738-1e3803bae588",
+  "site_short_id": "test2"
+}

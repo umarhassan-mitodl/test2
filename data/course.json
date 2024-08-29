@@ -13,7 +13,7 @@
     "website": "test2"
   },
   "course_title": "test2",
-  "hide_download": false,
+  "hide_download": true,
   "course_description": "test2",
   "department_numbers": [
     "2"

@@ -1,6 +1,6 @@
 {
   "term": "",
-  "year": "",
+  "year": "2002",
   "level": [],
   "topics": [],
   "legacy_uid": "",
@@ -13,18 +13,14 @@
     "website": "test2"
   },
   "course_title": "test2",
-  "hide_download": false,
-  "course_description": "",
+  "hide_download": true,
+  "course_description": "test2",
   "department_numbers": [
-    "1"
+    "2"
   ],
-  "extra_course_numbers": "",
-  "primary_course_number": "1",
-  "course_image_thumbnail": {
-    "content": "",
-    "website": "test2"
-  },
+  "extra_course_numbers": "2",
+  "primary_course_number": "2",
   "learning_resource_types": [],
-  "site_uid": "e71b3ad1-906c-4cfa-9788-f1efe8a5e2f2",
+  "site_uid": "eb29a2cb-fcc1-42f8-8738-1e3803bae588",
   "site_short_id": "test2"
 }

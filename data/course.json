@@ -1,7 +1,9 @@
 {
-  "term": "",
+  "term": "Spring",
   "year": "2002",
-  "level": [],
+  "level": [
+    "Undergraduate"
+  ],
   "topics": [],
   "legacy_uid": "",
   "instructors": {
@@ -14,12 +16,7 @@
   },
   "course_title": "test2",
   "hide_download": false,
-  "mit_learn_topics": [
-    [
-      "Art, Design & Architecture",
-      "Art History"
-    ]
-  ],
+  "mit_learn_topics": [],
   "course_description": "test2",
   "department_numbers": [
     "2"
@@ -27,6 +24,6 @@
   "extra_course_numbers": "",
   "primary_course_number": "2",
   "learning_resource_types": [],
-  "site_uid": "5b9db5a9-f3af-409d-b7d9-a1a153e8820d",
+  "site_uid": "085ea710-a01e-4748-882c-9761d43b6dff",
   "site_short_id": "test2"
 }

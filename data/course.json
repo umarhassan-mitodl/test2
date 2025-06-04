@@ -1,8 +1,8 @@
 {
-  "term": "Spring",
+  "term": "Summer",
   "year": "2002",
   "level": [
-    "Undergraduate"
+    "Graduate"
   ],
   "topics": [],
   "legacy_uid": "",
@@ -24,6 +24,6 @@
   "extra_course_numbers": "",
   "primary_course_number": "2",
   "learning_resource_types": [],
-  "site_uid": "085ea710-a01e-4748-882c-9761d43b6dff",
+  "site_uid": "557d33df-9e7f-4768-969d-fd74cda9c79a",
   "site_short_id": "test2"
 }

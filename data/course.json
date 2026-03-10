@@ -1,10 +1,11 @@
 {
-  "term": "Summer",
+  "term": "Spring",
   "year": "2002",
   "level": [
-    "Graduate"
+    "Undergraduate"
   ],
   "topics": [],
+  "audience": [],
   "legacy_uid": "",
   "instructors": {
     "content": [],
@@ -24,6 +25,7 @@
   "extra_course_numbers": "",
   "primary_course_number": "2",
   "learning_resource_types": [],
-  "site_uid": "557d33df-9e7f-4768-969d-fd74cda9c79a",
-  "site_short_id": "test2"
+  "site_uid": "4336daed-7d66-4d07-8d0b-4048f69fa317",
+  "site_short_id": "test2",
+  "site_url_path": "courses/2-test2-spring-2002"
 }
